@@ -84,7 +84,7 @@ function App() {
       <div>
         <img
           className="my-img"
-          src={require("C:/Users/acer/Downloads/intro-scr.png")}
+          src="https://cdn.thenewstack.io/media/2023/04/7f189864-atlassian_intelligence-1024x577.jpg"
         ></img>
       </div>
     </div>
